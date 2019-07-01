@@ -1,6 +1,5 @@
 def using_push(array,string)
-    next_color = "violet"
-    colors_in_the_rainbow.push(next_color)
+    array.push(string)
 end
   
   def bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
