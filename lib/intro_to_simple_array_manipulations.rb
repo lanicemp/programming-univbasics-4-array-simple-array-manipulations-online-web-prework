@@ -1,3 +1,4 @@
+require 
 require './lib/intro_to_simple_array_manipulations.rb'
 
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
