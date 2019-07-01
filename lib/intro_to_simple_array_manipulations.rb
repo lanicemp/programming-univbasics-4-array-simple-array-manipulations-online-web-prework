@@ -41,7 +41,7 @@ end
     array.delete(string)
   end
   using_delete_at(array, num)
-  array.delet_at(2)
+  array.delete_at(2)
 end
 
   
