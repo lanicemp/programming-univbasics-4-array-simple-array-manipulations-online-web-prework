@@ -29,4 +29,5 @@ end
     array.insert(4, "python")
   end
     
-    
+    def using_uniq(array)
+      
