@@ -23,7 +23,7 @@ end
   end 
   
   def using_concat(array, string)
-    array.concat
+    array.concat(string)
   end
     
     
